@@ -1,0 +1,9 @@
+# User-specific files
+*.user
+
+# Build stuff
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache
+.vs/
